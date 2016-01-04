@@ -20,7 +20,7 @@
     "generator-git-init": "^1.0.4",
     "globby": "^4.0.0",
     "rimraf": "^2.4.5",
-    "yeoman-generator": "^0.21.1"
+    "yeoman-generator": "^0.22.2"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^2.0.0",
